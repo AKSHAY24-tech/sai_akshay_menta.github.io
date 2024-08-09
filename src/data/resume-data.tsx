@@ -1,10 +1,9 @@
     import { GitHubIcon, LinkedInIcon, XIcon, HuggingFaceIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Divi Eswar Chowdary",
-  initials: "ED",
-  location: "Andhra Pradesh, India",
-  locationLink: "https://www.google.com/maps/place/Andhra+Pradesh/",
+  name: "Sai Akshay Menta",
+  location: "Boston, Massachusetts, United States",
+  locationLink: "https://maps.app.goo.gl/67VSCXSvShWpxt1b9",
   about:
     "Currently Playing with LLMs",
   personalWebsiteUrl: "https://eswardivi.github.io/",
